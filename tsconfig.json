@@ -1,15 +1,7 @@
 {
-  "compilerOptions": {
-    "target": "esnext",
-    "module": "esnext",
-    "strict": true,
-    "moduleResolution": "node",
-    "composite": true
-  },
   "references": [
     {"path": "src/main"},
     {"path": "src/dedicated-worker"},
-    {"path": "src/service-worker"},
-  ],
-  "exclude": ["./dist/**/*"]
+    {"path": "src/service-worker"}
+  ]
 }
