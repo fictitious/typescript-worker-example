@@ -2,5 +2,6 @@
   "references": [
     {"path": "src/main"},
     {"path": "src/service-worker"}
-  ]
+  ],
+  "files": []
 }
