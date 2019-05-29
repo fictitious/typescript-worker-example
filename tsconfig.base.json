@@ -1,6 +1,6 @@
 {
-  "composite": true,
   "compilerOptions": {
+    "composite": true,
     "target": "esnext",
     "module": "esnext",
     "strict": true,
